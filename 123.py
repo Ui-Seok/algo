@@ -12,11 +12,6 @@ _base_ = [
 #             nms=dict(type='soft_nms', iou_threshold=0.5),
 #             max_per_img=100)))
 
-
-
-
-
-
 ################################
 # dataset settings
 dataset_type = 'CocoDataset'
