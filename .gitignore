@@ -1,1 +1,3 @@
-BOJ/
+*.ipynb
+.cph
+.DS_Store
